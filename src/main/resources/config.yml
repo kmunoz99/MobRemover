@@ -1,1 +1,4 @@
-phantoms: enabled
+mobs:
+  - blaze
+  - skeleton
+  - phantom

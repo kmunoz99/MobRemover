@@ -3,7 +3,7 @@ package org.laceperro;
 import org.bukkit.event.EventHandler;
 import org.bukkit.event.Listener;
 import org.bukkit.event.entity.CreatureSpawnEvent;
-
+import org.bukkit.event.weather.WeatherChangeEvent;
 import java.util.List;
 
 public class MobRemoverListener implements Listener {
@@ -22,4 +22,5 @@ public class MobRemoverListener implements Listener {
         }
 
     }
+
 }

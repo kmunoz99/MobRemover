@@ -1,5 +1,5 @@
 name: MobRemover
-version: '1.0.0'
+version: '1.1.0'
 main: org.laceperro.MobRemover
 api-version: 1.19
 authors: [ Serbob, kmunoz99 ]
@@ -7,3 +7,5 @@ description: A plugin that enables/disables the spawn of Mobs. Based on PhantomR
 commands:
   mobs:
     description: Enables/disables the spawn of mobs.
+  weatherremover:
+    description: Enables/disables the weather.
